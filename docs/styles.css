@@ -1,15 +1,15 @@
-ol {
+ol#nav {
   list-style-type: none;
 }
-ol li {
+ol#nav li {
   display: inline;
 }
-ol li::after {
+ol#nav li::after {
   content: ' | ';
 }
-ol li:first-child::before {
+ol#nav li:first-child::before {
   content: '[ ';
 }
-ol li:last-child::after {
+ol#nav li:last-child::after {
   content: ' ] ';
 }
