@@ -3,11 +3,16 @@ body {  margin: 0; padding: 0; }
 
 body > header, body > main, body > footer, body > header > p:first-child {
   margin:     0;
-  padding:    1em;
+  padding:    0 1em;
 }
 body > header, body > footer {
   background: #006072;
   color:      white;
+}
+
+body > header {
+  border-radius: 0 0 10% 10%;
+  padding-bottom: 0.5em;
 }
 
 main > article > h2 {
