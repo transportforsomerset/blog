@@ -1,3 +1,7 @@
+body header {
+  background-color: #006072;
+}
+
 ol#nav {
   list-style-type: none;
 }
