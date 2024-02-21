@@ -3,7 +3,7 @@ body {  margin: 0; padding: 0; }
 
 body > header, body > main, body > footer, body > header > p:first-child {
   margin:     0;
-  padding:    0 1em;
+  padding:    1em;
 }
 body > header, body > footer {
   background: #006072;
