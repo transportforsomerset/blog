@@ -10,6 +10,10 @@ body > header, body > footer {
   color:      white;
 }
 
+main > article > h2
+  color: #006072;
+}
+
 ol#nav {
   list-style-type: none;
 }
@@ -26,11 +30,11 @@ ol#nav li:last-child::after {
   content: ' ] ';
 }
 
-article footer {
-  border-left: 1px dashed red;
+article > footer {
+  border-left: 1px dashed #006072;
   padding-left: 0.6em;
 }
-article footer p {
+article > footer p {
   margin: 0;
   padding: 0;
 }
