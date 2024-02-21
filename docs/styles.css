@@ -11,7 +11,7 @@ body > header, body > footer {
 }
 
 body > header {
-  border-radius: 0 0 10% 10%;
+  border-radius: 0 0 100% 0;
   padding-bottom: 0.5em;
 }
 
