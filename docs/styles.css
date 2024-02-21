@@ -10,7 +10,7 @@ body > header, body > footer {
   color:      white;
 }
 
-main > article > h2
+main > article > h2 {
   color: #006072;
 }
 
