@@ -39,7 +39,8 @@ main > article > h2 {
   color: #006072;
 }
 main > article img {
-  float: right;
+  margin: 0.5em 0 0.5em 0.5em;
+  float:  right;
 }
 
 article > footer {
