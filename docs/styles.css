@@ -1,7 +1,11 @@
 html {  margin: 0; padding: 0; }
 body {  margin: 0; padding: 0; }
 
-body > header, body > main, body > footer, body > header > :first-child {
+body > header,
+body > header > :first-child,
+body > main,
+body > footer,
+body > footer > :last-child {
   margin:     0;
   padding:    0 1em;
   max-width:  600px;
