@@ -2,7 +2,7 @@ html, body {  margin: 0; padding: 0; }
 
 body > header,
 body > main,
-body > footer
+body > footer {
   margin:     0;
   padding:    0 1em;
   max-width:  600px;
