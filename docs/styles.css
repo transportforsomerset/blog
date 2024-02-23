@@ -1,11 +1,14 @@
 html, body {  margin: 0; padding: 0; }
 
+body {
+  font-family: Georgia;
+  max-width:  600px;
+}
 body > header,
 body > main,
 body > footer {
   margin:     0;
   padding:    0 1em;
-  max-width:  600px;
 }
 body > header, body > footer {
   background: #006072;
