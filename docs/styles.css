@@ -28,7 +28,7 @@ body > header a {
 
 ol#nav {
   list-style-type: none;
-  font-size: 1em;
+  font-size: 1.1em;
 }
 ol#nav li {
   display: inline;
