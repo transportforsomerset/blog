@@ -1,7 +1,13 @@
+@font-face {
+  font-family: "AR One Sans";
+  src:
+    url("AROneSans.ttf");
+}
+
 html, body {  margin: 0; padding: 0; }
 
 body {
-  font-family: Georgia;
+  font-family: "AR One Sans", Georgia;
   max-width:  850px;
 }
 body > header,
