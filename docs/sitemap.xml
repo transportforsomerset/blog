@@ -2,30 +2,30 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-	      xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
-	  <loc>https://blog.transportforsomerset.co.uk/</loc>
-	  <priority>1.0</priority>
-	  <lastmod>2024-03-26</lastmod>
+    <loc>https://blog.transportforsomerset.co.uk/</loc>
+    <priority>1.0</priority>
+    <lastmod>2024-03-26</lastmod>
   </url>
-    <url>
-	  <loc>https://blog.transportforsomerset.co.uk/2024/</loc>
-	  <priority>1.0</priority>
-	  <lastmod>2024-03-26</lastmod>
+  <url>
+    <loc>https://blog.transportforsomerset.co.uk/2024/</loc>
+    <priority>1.0</priority>
+    <lastmod>2024-03-26</lastmod>
   </url>
-    <url>
-	  <loc>https://blog.transportforsomerset.co.uk/2023/</loc>
-	  <priority>1.0</priority>
-	  <lastmod>2024-03-26</lastmod>
+  <url>
+    <loc>https://blog.transportforsomerset.co.uk/2023/</loc>
+    <priority>1.0</priority>
+    <lastmod>2024-03-26</lastmod>
   </url>
-    <url>
-	  <loc>https://blog.transportforsomerset.co.uk/2024/first-bus-new-electric.htm</loc>
-	  <priority>1.0</priority>
-	  <lastmod>2024-03-26</lastmod>
-	  <image:image>
-	    <image:loc>https://blog.transportforsomerset.co.uk/media/stagecoach-taunton-pr-2.jpg</image:loc>
-	    <image:title>Taunton Park and Ride Livery - Stagecoach</image:title>
-	    <image:caption>The Taunton Park and Ride livery painted on a stagecoach double decker bus</image:caption>
-	  </image:image>
+  <url>
+    <loc>https://blog.transportforsomerset.co.uk/2024/first-bus-new-electric.htm</loc>
+    <priority>1.0</priority>
+    <lastmod>2024-03-26</lastmod>
+    <image:image>
+      <image:loc>https://blog.transportforsomerset.co.uk/media/stagecoach-taunton-pr-2.jpg</image:loc>
+      <image:title>Taunton Park and Ride Livery - Stagecoach</image:title>
+      <image:caption>The Taunton Park and Ride livery painted on a stagecoach double decker bus</image:caption>
+    </image:image>
   </url>
 </urlset>
