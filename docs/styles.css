@@ -54,6 +54,9 @@ ol#nav li:last-child::after {
 main > article > h2 {
   color: #006072;
 }
+main > article p {
+  text-align: justify;
+}
 main > article img {
   margin: 0.5em 0 0.5em 0.5em;
   float:  right;
