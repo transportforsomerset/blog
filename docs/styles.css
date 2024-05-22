@@ -26,7 +26,7 @@ body > footer > :last-child {
   margin: 0;
 }
 
-body > header { border-radius: 0 0 100% 0; padding: 0.5em 11em 0.5em 1em; border: 2px dashed white; }
+body > header { border-radius: 0 0 100% 0; padding: 0.5em 11em 0.5em 1em; border-bottom: 1px dashed white; }
 body > footer { border-radius: 0 100% 0 0; padding: 0.5em 1em; margin-top: 1em; }
 
 body > header a {
