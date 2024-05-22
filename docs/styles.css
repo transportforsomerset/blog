@@ -26,8 +26,8 @@ body > footer > :last-child {
   margin: 0;
 }
 
-body > header { border-radius: 0 0 100% 0; padding: 0.5em 11em 0.5em 1em; border-bottom: 5px dotted white; }
-body > footer { border-radius: 0 100% 0 0; padding: 0.5em 1em; margin-top: 1em; }
+body > header { border-radius: 0 0 100% 0; padding: 0.5em 11em 0.5em 1em; }
+body > footer { border-radius: 0 100% 0 0; padding: 0.5em 1em  0.5em 1em; margin-top: 1em; }
 
 body > header a {
   color: #f0bb35;
